@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" 
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
       http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
-  <osisText osisRefWork="Bible"  osisRefWork="defaultReferenceScheme" osisIDWork="JoNT" xml:lang="nl">
+  <osisText osisRefWork="Bible" osisIDWork="JoNT" xml:lang="nl">
     <header>
-      <work osiswork="JoNT">
+      <work osisWork="JoNT">
         <title>Het Nieuwe Testament vertaald door Nicolaas de Jonge</title>
         <description>Uitgegeven door het Britsch– en Buitenlandsch Bijbelgenootschap, Antwerpen</description>
         <type type="OSIS">Bible</type>
@@ -3823,20 +3823,21 @@
         <verse osisID="John.1.35">Des anderen daags stond Johannes daar weder en twee van zijn discipelen.</verse>
         <verse osisID="John.1.36">En hij zag Jezus daar wandelen en zeide: Zie, het Lam Gods!</verse>
         <verse osisID="John.1.37">En die twee discipelen hoorden hem dat zeggen en zij volgden Jezus.</verse>
-        <verse osisID="John.1.38">En Jezus keerde zich om en ziende dat zij Hem volgden, zeide Hij tot hen: <q who="Jesus">Wat zoekt gij?</q> [1:39] Zij nu zeiden tot Hem: Rabbi, (dat wil zeggen: Meester) waar woont Gij?</verse>
-        <verse osisID="John.1.39">[1:40] Hij zeide tot hen: <q who="Jesus">Komt en ziet!</q> Zij kwamen dan en zagen waar Hij woonde. En zij bleven dien dag bij Hem. Het was omtrent de tiende ure.</verse>
-        <verse osisID="John.1.40">[1:41] Andreas, de broeder, van Simon Petrus, was een van de twee die het van Johannes gehoord hadden en Jezus gevolgd waren.</verse>
-        <verse osisID="John.1.41">[1:42] Deze nu vond eerst zijn eigen broeder Simon en zeide tot hem: Wij hebben den Messias gevonden, (dat wil zeggen: Den Christus.)</verse>
-        <verse osisID="John.1.42">[1:43] Hij leidde hem tot Jezus. En Jezus hem ziende zeide tot hem: <q who="Jesus">Gij zijt Simon, de zoon van Jonas; gij zult genoemd worden Kefas,</q> (dat wil zeggen: Petrus.)</verse>
-        <verse osisID="John.1.43">[1:44] Des anderen daags wilde Jezus naar Galilea vertrekken, en vond Filippus; en Jezus zeide tot hem: <q who="Jesus">Volg Mij!</q></verse>
-        <verse osisID="John.1.44">[1:45] Filippus nu was van Bethsaïda, de stad van Andreas en Petrus.</verse>
-        <verse osisID="John.1.45">[1:46] Filippus vond Nathanaël en zeide tot hem: Waar Mozes in de wet van geschreven heeft en de profeten, dien hebben wij gevonden, Jezus, Jozefs zoon van Nazaret.</verse>
-        <verse osisID="John.1.46">[1:47] En Nathanaël zeide tot hem: Uit Nazaret kan er wat goeds komen? Filippus zeide tot hem: Kom en zie!</verse>
-        <verse osisID="John.1.47">[1:48] Jezus zag Nathanaël tot zich komen en zeide van hem: <q who="Jesus">Ziedaar waarlijk een Israëliet, in wien geen bedrog is!</q></verse>
-        <verse osisID="John.1.48">[1:49] Nathanaël zeide tot Hem: Vanwaar kent Gij mij? Jezus antwoordde en zeide tot hem: <q who="Jesus">Vóór dat Filippus u riep, toen gij onder den vijgeboom waart, zag Ik u.</q></verse>
-        <verse osisID="John.1.49">[1:50] Nathanaël antwoordde Hem: Rabbi, Gij zijt de Zone Gods! Gij zijt de Koning Israëls!</verse>
-        <verse osisID="John.1.50">[1:51] Jezus antwoordde en zeide tot hem: <q who="Jesus">Omdat Ik tot u gezegd heb dat Ik u onder den vijgeboom zag, daarom gelooft gij? — Grootere dingen dan deze zult gij zien!</q></verse>
-        <verse osisID="John.1.51">[1:52] En Hij zeide tot hem: <q who="Jesus">Voorwaar, voorwaar zeg Ik ulieden: Gij zult den hemel geopend zien en de engelen Gods opklimmende en nederdalende op den Zoon des menschen.</q></verse>
+        <verse osisID="John.1.38">En Jezus keerde zich om en ziende dat zij Hem volgden, zeide Hij tot hen: <q who="Jesus">Wat zoekt gij?</q> </verse>
+        <verse osisID="John.1:39">Zij nu zeiden tot Hem: Rabbi, (dat wil zeggen: Meester) waar woont Gij?</verse>
+        <verse osisID="John.1.40">Hij zeide tot hen: <q who="Jesus">Komt en ziet!</q> Zij kwamen dan en zagen waar Hij woonde. En zij bleven dien dag bij Hem. Het was omtrent de tiende ure.</verse>
+        <verse osisID="John.1.41">Andreas, de broeder, van Simon Petrus, was een van de twee die het van Johannes gehoord hadden en Jezus gevolgd waren.</verse>
+        <verse osisID="John.1.42">Deze nu vond eerst zijn eigen broeder Simon en zeide tot hem: Wij hebben den Messias gevonden, (dat wil zeggen: Den Christus.)</verse>
+        <verse osisID="John.1.43">Hij leidde hem tot Jezus. En Jezus hem ziende zeide tot hem: <q who="Jesus">Gij zijt Simon, de zoon van Jonas; gij zult genoemd worden Kefas,</q> (dat wil zeggen: Petrus.)</verse>
+        <verse osisID="John.1.44">Des anderen daags wilde Jezus naar Galilea vertrekken, en vond Filippus; en Jezus zeide tot hem: <q who="Jesus">Volg Mij!</q></verse>
+        <verse osisID="John.1.45">Filippus nu was van Bethsaïda, de stad van Andreas en Petrus.</verse>
+        <verse osisID="John.1.46">Filippus vond Nathanaël en zeide tot hem: Waar Mozes in de wet van geschreven heeft en de profeten, dien hebben wij gevonden, Jezus, Jozefs zoon van Nazaret.</verse>
+        <verse osisID="John.1.47">En Nathanaël zeide tot hem: Uit Nazaret kan er wat goeds komen? Filippus zeide tot hem: Kom en zie!</verse>
+        <verse osisID="John.1.48">Jezus zag Nathanaël tot zich komen en zeide van hem: <q who="Jesus">Ziedaar waarlijk een Israëliet, in wien geen bedrog is!</q></verse>
+        <verse osisID="John.1.49">Nathanaël zeide tot Hem: Vanwaar kent Gij mij? Jezus antwoordde en zeide tot hem: <q who="Jesus">Vóór dat Filippus u riep, toen gij onder den vijgeboom waart, zag Ik u.</q></verse>
+        <verse osisID="John.1.50">Nathanaël antwoordde Hem: Rabbi, Gij zijt de Zone Gods! Gij zijt de Koning Israëls!</verse>
+        <verse osisID="John.1.51">Jezus antwoordde en zeide tot hem: <q who="Jesus">Omdat Ik tot u gezegd heb dat Ik u onder den vijgeboom zag, daarom gelooft gij? — Grootere dingen dan deze zult gij zien!</q></verse>
+        <verse osisID="John.1.52">En Hij zeide tot hem: <q who="Jesus">Voorwaar, voorwaar zeg Ik ulieden: Gij zult den hemel geopend zien en de engelen Gods opklimmende en nederdalende op den Zoon des menschen.</q></verse>
       </p>
       </chapter>
       <chapter osisID="John.2">
@@ -6455,7 +6456,8 @@
         <verse osisID="Rom.7.22">Want ik verlustig mij in de wet Gods naar den inwendigen mensch.</verse>
         <verse osisID="Rom.7.23">Maar ik zie een andere wet in mijn leden die strijd voert tegen de wet van mijn gemoed en die mij gevangen neemt in de wet der zonde die in mijn leden is.</verse>
         <verse osisID="Rom.7.24">Ellendig mensch als ik ben! wie zal mij verlossen uit het lichaam van dezen dood?</verse>
-        <verse osisID="Rom.7.25">Gode zij dank door Jezus Christus, onzen Heere! [7:26] Zoo dan, ik zelf ben naar het gemoed wel dienstbaar aan de wet Gods, maar naar het vleesch aan de wet der zonde.</verse>
+        <verse osisID="Rom.7.25">Gode zij dank door Jezus Christus, onzen Heere!</verse>
+        <verse osisID="Rom.7:26">Zoo dan, ik zelf ben naar het gemoed wel dienstbaar aan de wet Gods, maar naar het vleesch aan de wet der zonde.</verse>
       </p>
       </chapter>
       <chapter osisID="Rom.8">
@@ -10204,7 +10206,8 @@
         </p>
         <p>
         <verse osisID="3John.1.13">Ik had u veel te schrijven, maar ik wil u niet schrijven met inkt en pen,</verse>
-        <verse osisID="3John.1.14">doch ik hoop u spoedig te zien, en dan zullen wij van mond tot mond spreken. [1:15] Vrede zij u! De vrienden groeten u! Groet de vrienden bij name!</verse>
+        <verse osisID="3John.1.14">doch ik hoop u spoedig te zien, en dan zullen wij van mond tot mond spreken.</verse>
+        <verse osisID="3John.1:15"> Vrede zij u! De vrienden groeten u! Groet de vrienden bij name!</verse>
       </p>
       </chapter>
     </div>
@@ -10567,11 +10570,12 @@
         </p>
         <p>
         <verse osisID="Rev.12.17">En de draak werd vol gramschap tegen de vrouw, en hij ging om oorlog te voeren met de anderen van haar nakomelingen, die de geboden Gods bewaren en de getuigenis van Jezus hebben.</verse>
+        <verse osisID="Rev.12.18">En hij ging staan bij den oever der zee,</verse>
       </p>
       </chapter>
       <chapter osisID="Rev.13">
 		  <p>
-        <verse osisID="Rev.13.1">[12:18] En hij ging staan bij den oever der zee. [13:1] En ik zag uit de zee een beest opkomen, dat tien hoornen had en zeven koppen, en op zijn hoornen tien diademen, en op zijn koppen namen van lastering.</verse>
+        <verse osisID="Rev.13.1">En ik zag uit de zee een beest opkomen, dat tien hoornen had en zeven koppen, en op zijn hoornen tien diademen, en op zijn koppen namen van lastering.</verse>
         <verse osisID="Rev.13.2">En het beest dat ik zag was als een pardel, en zijn pooten als van een beer, en zijn muil was als een leeuwenmuil; en de draak gaf het zijn macht en zijn troon en groote kracht.</verse>
         <verse osisID="Rev.13.3">en een van zijn koppen zag ik als tot den dood toe gewond, en zijn doodelijke wonde werd genezen. En de geheele aarde verwonderde zich achter het beest;</verse>
         <verse osisID="Rev.13.4">en zij aanbaden den draak, omdat hij de macht aan het beest gegeven had, en zij aanbaden het beest, zeggende: wie is gelijk aan dit beest, en wie kan daarmee oorlog voeren?</verse>
